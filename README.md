@@ -1,14 +1,14 @@
 # Excel-Project-for-Data-Analytic
 
-📊 Bike Sales Excel Dashboard
+📊 **Bike Sales Excel Dashboard**
 
 Interactive Microsoft Excel dashboard built to analyze multi-year bike sales data and generate actionable business insights.
 
-🔎 Project Summary
+🔎 **Project Summary**
 
 Designed and developed a dynamic sales dashboard using advanced Excel features to track revenue, profit, and customer trends across regions including Canada and Australia.
 
-🛠 Skills & Tools
+🛠 **Skills & Tools**
 
 Microsoft Excel
 
@@ -24,7 +24,7 @@ Dashboard Design
 
 Business Performance Analysis
 
-📈 Key Highlights
+📈 **Key Highlights**
 
 Built dynamic KPIs for Revenue, Profit, Orders, and Profit Margin
 
@@ -34,6 +34,6 @@ Created an interactive dashboard for real-time filtering and insights
 
 Transformed raw transactional data into executive-level reporting
 
-🎯 Impact
+🎯 **Impact**
 
 Enabled data-driven decision-making by identifying top-performing products, profitable regions, and key customer segments.
